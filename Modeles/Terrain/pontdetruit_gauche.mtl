@@ -1,0 +1,14 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl Material1
+Ka 0.000000 0.000000 0.000000
+Kd 0.086275 0.086275 0.086275
+Ks 0.330000 0.330000 0.330000
+
+newmtl sable1
+Ka 0.000000 0.000000 0.000000
+Kd 0.235294 0.247059 0.152941
+Ks 0.330000 0.330000 0.330000
+
